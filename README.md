@@ -1,12 +1,46 @@
-# React + Vite
+# 👟 NikeFromSarojini
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and stylish Nike-inspired landing page built using **React**, **Vite**, and **Tailwind CSS** — because why buy from the mall when Sarojini has better drip? 😉
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React (with Vite)
+- 💨 Tailwind CSS
+- 🛠️ HTML + JSX
+- 🎨 Custom styling and responsive layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Features
+
+- Fully responsive layout  
+- Clean, modern design inspired by Nike  
+- Reusable `Button` component with icon support  
+- Tailwind-powered styling with utility classes  
+- Organized folder structure for scaling later
+
+---
+
+## 🛠️ Getting Started
+
+To run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/Vivek-103/NikeFromSarojini.git
+
+# Navigate into the project
+cd NikeFromSarojini
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+## 🙌 Acknowledgements
+
+Big thanks to [JSMastery](https://www.jsmastery.pro/) for the amazing tutorials that helped me learn Tailwind CSS with React and Vite. Couldn't have done it without you!
+
