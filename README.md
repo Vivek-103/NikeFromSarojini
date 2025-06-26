@@ -40,7 +40,10 @@ npm install
 # Start development server
 npm run dev
 
+```
 ## 🙌 Acknowledgements
 
 Big thanks to [JSMastery](https://www.jsmastery.pro/) for the amazing tutorials that helped me learn Tailwind CSS with React and Vite. Couldn't have done it without you!
+
+### DEPLOYED SITE -[NIKE-SAROJINI](https://vivek-103.github.io/NikeFromSarojini/)
 
