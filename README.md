@@ -13,7 +13,7 @@ A fun and stylish Nike-inspired landing page built using **React**, **Vite**, an
 
 ---
 
-## 📦 Features
+## 📦 Features 
 
 - Fully responsive layout  
 - Clean, modern design inspired by Nike  
